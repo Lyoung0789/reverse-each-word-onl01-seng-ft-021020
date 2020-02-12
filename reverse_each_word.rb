@@ -6,4 +6,4 @@ def reverse_each_word (string)
   reverse_string=reverse_word.join(" ")
 end
 
-#usint .collect 
+#using .collect 
